@@ -1,0 +1,6 @@
+version=2
+server=chinacdn1
+	location=http://client01.pdl.wow.battlenet.com.cn/wow-pod-retail/CN/14250.streaming/
+server=chinacdn3
+	location=http://client03.pdl.wow.battlenet.com.cn/wow-pod-retail/CN/14250.streaming/
+manifest_partial=wow-15354-D4A749CAF464B282987A39C2F6FC4D43.mfil
